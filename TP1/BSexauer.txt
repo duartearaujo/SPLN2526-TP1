@@ -1,0 +1,577 @@
+A fotografia como modelo narrativo e
+suporte de reflexão teórica em
+Un monde sans rivage, de Hélène Gaudy
+Photography as a narrative model and
+theoretical basis in Un monde sans rivage, by Hélène Gaudy
+
+Bárbara Sexauer
+Investigadora independente, Portugal
+barbaracsexauer@gmail.com
+ORCID: 0009-0007-4164-0329
+
+RESUMO:
+Neste artigo atentamos no modo como a fotografia desempenha um conjunto de funções estruturais na composição narrativa da obra de Hélène Gaudy (n.1979), Un
+monde sans rivage (2019). Em primeiro lugar, analisamos a centralidade do conjunto
+de fotografias de Nils Strindberg na arquitetura da diegese e como modelo estilístico.
+A tentativa de reconstrução da história deste fotógrafo e dos seus companheiros de
+viagem August Andrée e Knut Frænkel, que partiram em exploração dos territórios
+então ainda desconhecidos do Ártico, resulta diretamente do contacto, por parte do
+narrador, com o registo fotográfico de Strindberg. Notamos também que as fotografias, danificadas pelo tempo e pelo gelo, influenciam a voz do narrador, que adota o
+COMPENDIUM 8 (December/Dezembro, 2025): 57–73.
+ISSN: 2975-8025 | DOI: https://doi.org/10.51427/com.jcs.2025.8.5
+
+imaginário fotográfico como modelo. Num segundo momento, pensamos no modo
+como a fotografia é o ponto de partida para uma crítica ao pensamento expansionista
+e a uma visão utilitarista da natureza, representados pelo objetivo inicial dos viajantes: fotografar a paisagem de um ponto de vista distanciado. Finalmente, discutimos
+como, por oposição ao modelo anteriormente referido, a narrativa apresenta as fotografias danificadas, as suas sombras e falhas, como uma forma de representação da
+paisagem que a revela nos seus próprios termos.
+
+ABSTRACT:
+This article explores the structural functions of photography in the narrative composition of Hélène Gaudy’s Un monde sans rivage (2019). First, we analyse the central role of Nils Strindberg’s photographic archive in shaping the narrative structure.
+The narrator’s attempt to reconstruct the story of Strindberg and his travel companions, August Andrée and Knut Frænkel – who ventured into the then-uncharted Arctic – arises directly from an engagement with Strindberg’s photographic records.
+These photographs – damaged by time and ice, and recovered years after the explorers’ disappearance – shape the narrative voice, which adopts a photographic imagination as a model, striving to echo the specific qualities of the images. Secondly, we
+consider how the photographs serve as a point of departure for a critique of expansionist thinking and a utilitarian perception of nature, which the travellers’ images,
+initially taken from a distant position, come to embody. Finally, we examine how, in
+contrast to this earlier model, the narrative presents the damaged photographs,
+along with their shadows and flaws, as a form of landscape representation that reveals the landscape on its own terms.
+
+PALAVRAS-CHAVE:
+diegese; fotografia; Hélène Gaudy; paisagem natural; sombra
+
+KEYWORDS:
+diegesis; Hélène Gaudy; natural landscape; photography; shadow
+
+Submissão/Submission: 16/06/2025
+Aceitação/Acceptance: 13/10/2025
+
+
+
+<t>Introdução
+EM UN MONDE SANS RIVAGE, o discurso é mediado por documentos — um conjunto
+de fotografias e um diário — que representam uma viagem ao (e no) deserto gelado
+do Ártico. Trata-se de objetos deixados por três viajantes suecos, o engenheiro Salomon August Andrée, autor do diário, o meteorologista Knut Frænkel e o fotógrafo
+Nils Strindberg, autor das fotografias, desaparecidos após uma expedição em balão
+de ar quente, em 1897, na tentativa de alcançar o Polo Norte. As fotografias que
+guiam o ato de escrita consistem possivelmente numa parte do arquivo da coleção
+“Andréexpeditionen”, atualmente em exposição no museu Grenna, na Suécia, mas
+com que o narrador diz ter contactado no Museu Louisiana, em Copenhaga, referindo-se possivelmente à exposição “Arktis”, que ocorreu entre setembro de 2013 e
+fevereiro de 2014. A viagem dos três exploradores num balão de ar quente visava a
+exploração científica das zonas geladas do Ártico, mas decorreu sobretudo da ambição de alcançar uma região ainda desconhecida. Não tendo suportado os fortes ventos
+polares, o balão despenhou-se na paisagem gelada, permanecendo os três viajantes
+no Ártico impossibilitados de regressar, durante três meses. Em 1930, os seus corpos
+foram encontrados na ilha Kvitøya, preservados no gelo e, com eles, as fotografias
+tiradas por Nils Strindberg. A narrativa articula diferentes momentos: o processo,
+por parte do narrador, de entrar em contacto e analisar as fotografias de Nils, a reconstrução da vivência dos viajantes, a digressão por experiências que estabelecem
+semelhanças com a dos exploradores suecos e, ainda, o reconto do encontro de outros
+com este conjunto de fotografias. As fotografias danificadas de Strindberg provêm de
+quarenta e oito rolos de uma das câmaras 13x18 Pettersson AB (Brito 2016, 17) que
+permaneceram soterradas no gelo durante décadas e que foram encontradas junto
+com os corpos dos viajantes. Reveladas nesse ano, mostram apenas pequenas partes
+do que inicialmente representavam, dada a longa estadia no Ártico que contribuiu
+em grande medida, além da simples passagem do tempo, para a sua degradação.
+Estas fotografias danificadas de Nils Strindberg, com as suas sombras e falhas, oferecem um mote para o gesto da escrita, para a reconstrução de uma experiência não
+vivida e irrecuperável e uma reflexão acerca das possibilidades de representação de
+uma paisagem natural. “Tudo mergulha num mundo sem margem, que não tolera
+qualquer definição” (Adler in Gaudy 2019), lê-se em epígrafe na obra de Gaudy. À
+semelhança desta passagem de Un voyage, de H.G. Adler, as fotografias são portadoras de uma indefinição que perpassa Un monde sans rivage, marcando a narrativa
+a nível estético e temático.
+Partindo deste pressuposto, o presente artigo procura analisar a presença central da fotografia na construção narrativa, de três modos distintos. Na primeira parte
+pensamo-la como elemento estruturante para a arquitetura da narrativa e como modelo para a escrita, que parece aproximar-se das características das próprias fotografias. As duas partes seguintes revelam a influência da fotografia na narrativa
+enquanto estrutura de uma reflexão sobre perceção e reprodução de paisagem. Na
+segunda, analisamos o modo como a fotografia sustenta uma crítica à motivação humana de conquista da paisagem protagonizada pelos exploradores do Ártico. A fotografia a partir do balão de ar quente, ponto de vista distanciado, é associada ao
+
+
+
+
+interesse de perseguição da vitória e de posse que marca esta forma de relação com
+a paisagem, em que a ação do sujeito surge carregada de uma vontade de apropriação
+que se impõe sobre a dimensão primeira das coisas. Finalmente, na terceira parte,
+discutimos as possibilidades que as zonas de sombra das fotografias de Nils oferecem,
+enquanto alternativa à crença na capacidade de compreender, apreender e dominar
+o mundo natural. Estas fotografias, que pretendiam constituir uma forma de registo
+controlada pelo seu autor, tornam-se, inversamente, manipuladas pela própria ação
+do mundo natural, consistindo no resultado da expressão direta da paisagem, de que
+a intervenção humana se encontra apagada. Analisamos o modo como se apresenta,
+a partir das fotografias, uma teoria da representação em que a preservação da incerteza é caminho para manter o caráter indeterminado e incerto do próprio real. Apoiamo-nos no pensamento de Jean-Christophe Bailly (n.1949) dedicado à imagem fotográfica e à sua génese, ancorada na dimensão física da impressão do real sobre
+uma superfície, bem como sobre a sombra, que surge como elemento distintivo das
+imagens tiradas por Strindberg e que assume particular relevância na leitura que
+propomos de Un monde sans rivage.
+Ausentes da obra na sua forma primeira, reproduzidas apenas por meio da palavra, a presença das fotografias de Strindberg em Un monde sans rivage enquanto
+estrutura diegética, modelo estilístico e alicerce de uma reflexão teórica, permite
+pensar a fotografia na obra literária para além da sua função mimética e documental.
+
+<t>1. A fotografia como estrutura diegética e modelo estilístico
+A par das referências à dimensão arqueológica do texto, à viagem e sobretudo à
+queda do balão, compreendemos a presença do imaginário fotográfico na narrativa
+em termos que intitulam alguns dos subcapítulos como “Revelador”, “Instantâneos”,
+“Relíquias”, “Retratos”, mas também na expressão “O que resta”, alusiva à função de
+vestígio que as fotografias de Strindberg ocupam após a morte dos viajantes. Primeiramente, a fotografia surge associada à construção da narrativa, pois é apresentada
+como fator desencadeador da escrita, elemento gerador da diegese no seu conjunto.
+O primeiro capítulo, “Contacto”, descreve o encontro entre o narrador e parte do arquivo de Nils Strindberg numa exposição museológica. Vários momentos desta descrição situam as fotografias como determinantes para a narrativa que se segue. É
+relevante o facto de o primeiro capítulo da obra iniciar com uma descrição de caráter
+ecfrástico em que uma fotografia se torna presente ao olhar do leitor, reproduzindo
+o momento em que surgiu pela primeira vez ao olhar do narrador. Mediante a exposição do movimento das figuras e do ambiente, a descrição sublinha a vividez da
+imagem, o modo como esta comunica com o observador:
+Estão frente a uma forma escura: um imenso balão caído, imóvel como um animal
+encalhado. Sente-se, no tecido estendido, o sopro de um vento, como se uma boca
+imensa o enchesse ainda. Um deles inicia um movimento, outro está imóvel, já.
+Estavam em pleno céu e agora estão aqui, a contemplar o volume inerte do seu
+sonho. (Gaudy 2019, 9)@NOTE1
+<note>1 As traduções são da minha responsabilidade ao longo de todo o artigo.<\note>
+
+
+
+Embora este “contacto” seja a descoberta das fotografias de Strindberg, a agência é
+atribuída a uma delas, apresentando-se o narrador sujeito ao efeito perturbante e
+envolvente da imagem, que o impele à escrita. A descrição coloca a fotografia como
+detentora da capacidade de iniciar uma história, parecendo dar-se uma inversão entre narrador e imagem, como sugere a “mudança de escala” na seguinte passagem:
+“As coisas mudaram de escala, a imagem ocupa todo o espaço. O princípio de uma
+narrativa parece encontrar-se aí escondida, algo dela transborda” (Gaudy 2019, 11).
+Se este primeiro efeito de suspensão provocado pela fotografia surge como génese do
+próprio ato de escrita, o efeito repete-se ao longo da obra, desenvolvida enquanto
+ponto de contacto entre a “lente” — o que se sabe acerca das intenções e da perceção
+dos viajantes — e o “vestígio”, aquilo que mostram as fotografias. Assim nos diz a
+passagem final deste primeiro capítulo: “O olho é uma placa fotográfica que se desenvolve na memória. Outras imagens residem, algures, entre a lente e o vestígio”
+(Gaudy 2019, 11). Pelo menos seis imagens de Strindberg são descritas em diferentes
+capítulos e essas écfrases constituem momentos de contemplação, introduzindo a fotografia no texto e permitindo gerar um processo imaginativo que ensaia incursões
+nos não ditos da imagem. A narração move-se, então, a partir da suspensão em instantes precisos e na exploração dos seus possíveis sentidos: “Agarramos um instante
+entre outros, sem saber imediatamente o que tem de único, de significativo, isso compreendê-lo-emos num segundo momento” (Gaudy 2019, 82). Simultaneamente, estas
+descrições de fotografias parecem assemelhar-se a um roteiro de escrita, oferecendo
+— em conjunto com o diário de August Andrée e de dados históricos paralelos, contemporâneos ou não da história principal — uma sequência de acontecimentos conhecidos, que estruturam a diegese e oferecem um rumo à imaginação, guiando-a
+pela certeza de alguns acontecimentos pontuais, fotograficamente registados. Tal
+como as fotografias de Nils se tornam um registo da vivência quotidiana depois da
+queda do balão que resulta em longos dias no gelo sem possibilidade de regresso,
+também a narrativa assume uma função de registo. Esta manifesta-se num tom documental presente na atenção a datas precisas, no reconto de acontecimentos históricos ligados ao começo da exploração de territórios desconhecidos no Ártico e aos
+primórdios da própria fotografia, enquanto prática resultante de progressos técnicos
+e científicos transformadores da relação humana com o mundo. Destacam-se alguns
+marcos dessa evolução, nomeadamente o surgimento da fotografia com recurso a
+raios X (Gaudy 2019, 206) e as primeiras fotografias aéreas da cidade de Paris
+(Gaudy 2019, 105), por exemplo. Contudo, esta prática do registo alia-se à imaginação, num segundo movimento de escrita que se segue à descrição, como forma de
+colmatar as falhas no conhecimento por via da História e do documento objetivo. Esse
+processo imaginativo adensa-se nos capítulos que reconstroem os meses passados no
+gelo pelos viajantes, acerca dos quais existem escassas informações. A construção
+narrativa, recorrendo à imaginação, aloja-se no que as imagens não mostram: “Durante três meses, vão caminhar. As imagens não dizem nada sobre esse tempo condensado entre elas” (Gaudy 2019, 134).
+A fotografia estrutura também a presença de Nils Strindberg na narrativa,
+personagem à qual talvez se atribua mais atenção, a par de Andrée, cujo diário permite que o narrador desenvolva algumas efabulações quanto ao seu mundo interior.
+
+
+
+
+Nils encarna a figura do fotógrafo, destacando-se nele características associadas a
+esta atividade: o gosto pela solidão, o olhar distanciado, a sensibilidade: “Preserva
+para si próprio silêncios, grutas. As fotografias sempre lhos ofereceram, desde a adolescência que não se cansa do recuo que o mundo lhe impõe para se deixar enfim
+transformar em imagens” (Gaudy 2019, 80). Através dele, o trabalho do fotógrafo
+ocupa um lugar na narrativa, enriquecendo-a com vocabulário técnico, descrições do
+gesto de fotografar e de práticas de revelação. Tal acontece num capítulo intitulado
+“Revelador”, dedicado a John Hertzberg (1871-1935), outro fotógrafo que em 1930,
+ano em que as retiraram do gelo, revelou as fotografias de Strindberg no Instituto
+Real de Tecnologia em Estocolmo. Nesta passagem, encontramos termos e informações técnicas como a definição da pirocatequina “que oxida o brometo de prata, absorve os raios azuis, violetas, intensifica os sais” (Gaudy 2019, 17). Por um lado, este
+tipo de descrição técnica concretiza a vontade de documentar uma parte da História
+da fotografia. Por outro, revela um entendimento da fotografia enquanto processo,
+criação que não é imediata nem repousa maioritariamente sobre a sua componente
+mecânica. Sublinha-se o facto de esta se encontrar exposta a diferentes fatores que
+influenciam a sua existência, sobretudo considerando as técnicas pouco aperfeiçoadas do século XIX. Esta valorização do processo de criação parece cruzar-se com a
+reflexão metadiegética, expondo a escrita também como processo em construção.
+Aproxima-se o fazer da fotografia à composição de uma história. A forma como se
+apresenta o papel de Hertzberg no seu trabalho com o arquivo de Nils é semelhante
+ao do narrador na reconstrução da história dos viajantes, a de dar vida ao que permanece escondido. Numa passagem sobre o papel da máquina fotográfica de Nils
+durante o tempo passado no Ártico, esta aproximação entre fotografia e escrita é
+explicitamente identificada: “criando [o aparelho], unicamente pela sua presença,
+esta dissociação que permite a fotografia, tal como a escrita: escavar um afastamento
+que faz de cada um o seu próprio testemunho” (Gaudy 2019, 115-116). O distanciamento é característico do narrador em Un monde sans rivage, que expõe as suas dúvidas, o seu conhecimento limitado, o processo imaginativo a que recorre para colmatar a ausência de registos históricos, o seu próprio envolvimento com este conjunto
+de fotografias e a história que contam. De certo modo, adotando este distanciamento,
+o texto cria uma “fotografia” do seu acontecer, tornando-se, assim, o seu próprio testemunho.
+Para além de estruturar a diegese, de constituir matéria de escrita e de reflexão
+sobre o processo de construção de uma história, a fotografia molda a voz do narrador.
+Vimos como a descrição de práticas fotográficas predispõe à adoção de vocabulário
+técnico. Ademais, constroem-se passagens e descrições que recorrem a metáforas relembrando a fotografia. Um exemplo significativo dá-se no capítulo “Forage”, que
+apresenta como se fossem clichês diferentes momentos da História, nomeadamente
+a encomenda de fotografias de diversos lugares da Terra pelo banqueiro e mecenas
+Albert Kahn para o seu projeto Archives de la planète, em 1926; a exposição da teoria
+da deriva dos continentes por Alfred Wegener em 1912; a chegada de Roald Amundsen ao Polo Sul, em 1911, entre outros. Todo este capítulo se constrói imitando a
+rebobinagem de um negativo: “Estamos ainda nos anos 30. Não por muito tempo. As
+fotografias puxam para trás, na espessura dos cinzentos e negros (…) Rebobinamos
+a fita, escavamos nesses trinta e três anos” (Gaudy 2019, 41).
+
+
+
+
+A fotografia apresenta-se ainda como modelo estilístico, pois o discurso reproduz recorrentemente as características particulares das fotografias danificadas pelos
+anos de permanência no gelo, que tendo garantido a sua sobrevivência, inscreveram
+marcas que se sobrepõem parcialmente ao seu conteúdo primeiro. Expostas durante
+décadas, a paisagem tornou-as desprovidas da capacidade de darem a ver. De facto,
+as imagens de Strindberg caracterizam-se pela indefinição do que representam:
+Algumas são demasiado pálidas, outras sobreexpostas. Em breve, adivinhamos
+a matéria do gelo que revela ravinas, rugas que desgastam o branco, que o quebram em blocos compactos. Por vezes, é uma montanha, mas poderia ser, também, um animal deitado. (Gaudy 2019, 17)
+
+Manon Delcour, autora de um artigo dedicado a esta narrativa, intitulado “Traces
+‘photocartographiques’ dans Un monde sans rivage, d’Hélène Gaudy” (2022), aponta
+para o modo como a obra de Gaudy “assume plenamente estas lacunas e artifícios da
+imagem, como o demonstram a recorrência de momentos de reconhecimento de incerteza” (Delcour 2022, 84-86). Un monde sans rivage apresenta-se como um conjunto de apontamentos, em que a narrativa temporalmente fragmentada não responde a uma progressão unitária, nem procura concluir uma história ou encontrar
+uma resposta para as questões afloradas. A descontinuidade dos elementos narrativos a nível espaciotemporal e das personagens replica a incerteza marcada nas fotografias, provocada pelo contacto com a paisagem. Inclusivamente, a consciência dos
+limites da possibilidade de conhecer de modo absoluto, que as sombras e as ausências
+nas fotografias sublinham, espelha-se na construção a partir de um movimento interrogativo. Este apoia-se na colocação de hipóteses e na profusão de termos que denotam marcas de imprecisão, ao invés de afirmações assertivas ou definitivas. As
+falhas da imagem confrontam o observador com um conjunto de lacunas que o faz
+experienciar a perda de referências, o desconhecido, o “branco” da imagem, reproduzindo o vazio da paisagem. O narrador descreve a fotografia como um espaço apenas
+constituído por reflexos, desprovido de pontos de identificação. Deste modo, as fotografias de Strindberg, que deveriam ser a âncora protetora da certeza do real e da
+capacidade de sobre ele poder construir representações transparentes, oferecem, ao
+invés, uma representação insuficiente da paisagem e da sua vivência nesse espaço,
+suscitando inquietação e questionamentos no recetor. Afirma Gaudy numa entrevista acerca de Un monde sans rivage: “(…) mantendo presente que a distância que
+me separa deles é impossível de colmatar e que, afinal, é preferível alojar-me nesse
+afastamento” (Gaudy 2019b). O gesto interrogativo, que diz um caminho pelo desconhecimento, aproxima-se conscientemente pela distância: não a torna menos distante, mas permite habitar essa distância.
+
+<t>2. A fotografia como ponto de partida para uma crítica à perceção utilitarista da natureza
+
+
+
+
+Para além das suas características oferecerem uma sequência narrativa e constituírem um modelo que a escrita reproduz, a fotografia parece surgir ainda como o plano
+de representação que medeia o pensamento da relação sujeito-paisagem, do encontro
+entre o humano e o mundo natural, a sua apropriação e reprodução. Esta sua função
+possibilita perceber o modo como a fotografia suscita e alicerça uma reflexão que
+ultrapassa a atenção apenas à porção do real que mimeticamente reproduz. Pelo contrário, a história da fotografia nos seus primórdios suscita a adoção de uma postura
+crítica por parte do narrador, que, a partir do distanciamento histórico, reflete sobre
+a relação dos viajantes com a paisagem antes da queda do balão e do uso que fazem
+da fotografia, espelho da mentalidade do século XIX, voltada para o progresso científico, a exploração geográfica e a conquista de territórios.
+A experiência dos três viajantes, na recriação que dela se faz nesta narrativa,
+inicia-se num distanciamento face à paisagem do Ártico que intentam conhecer, dado
+que se situam num balão de ar quente, a partir do qual Nils pretende fotografar o
+deserto gelado. A fotografia, neste primeiro momento, consiste num olhar externo à
+paisagem e num instrumento de mediação do ato de conquista daquele espaço desconhecido. O balão favorece a captura fotográfica, que, a partir de um ponto de vista
+elevado, se associa a uma posição de estabilidade e segurança. A vontade de alcançar
+o Ártico está sobretudo ancorada num desejo de conquista, relacionado com o poder
+e a vontade de transpor obstáculos. Assim se diz na seguinte passagem: “Como a
+águia, o seu balão saberá lançar um olhar penetrante sobre os confins do mundo, vêlos com essa precisão, essa clarividência que oferece o céu, e iniciar a sua possessão”
+(Gaudy 2019, 59). Os “confins do mundo”, últimos lugares ainda incógnitos ao olhar
+humano, são percecionados como vastas extensões a serem usadas para satisfação
+das conquistas de uma sociedade crescentemente apoiada no progresso tecnocientífico. Os gestos de “precisão” correspondem ao ato de mapear, de conhecer integralmente, de medir e de descrever, característicos do método científico. A “clarividência”
+de um céu sem nuvens, a que é comparado o ponto de vista elevado dos viajantes, diz
+ainda uma transparência alheia a dúvidas e hesitações.
+A par da reconstrução da viagem dos exploradores suecos, o narrador debruçase sobre diferentes episódios que dão conta de uma idêntica curiosidade não desinteressada que se verifica a partir do século XVIII em torno das zonas ainda desertas e
+desconhecidas do mundo. No capítulo “Ícaro”, em que se descrevem diferentes tentativas de apreender o mundo a partir do alto, a tendência para perspetivar a paisagem
+como objeto de conhecimento é associada ao mito de Ícaro. Numa alusão à queda que
+marca a falência do intento de conquista dos três viajantes, que discutiremos em
+seguida, Ícaro simboliza aqueles que se distanciam da paisagem ao procurarem um
+olhar abrangente. Este desregula a relação primitiva entre sujeito e mundo natural
+em que ambos se encontram envolvidos numa mesma escala de existência. Referemse, a este propósito, entre outros acontecimentos, os voos de Félix Nadar (1820-1910),
+autor da primeira fotografia aérea, em 1858, e promotor de várias experiências de
+voos de balão, com o objetivo de fotografar a paisagem a partir do alto. Ao descrever
+estas experiências, o narrador recorre a termos e expressões como “aprisionar as nuvens”, “classificar o mundo”, “domesticar” (Gaudy 2019, 102, 105, 197). Os termos
+escolhidos apontam para uma transição no entendimento da paisagem: da
+
+
+
+
+contemplação para a instrumentalização. Precisamente, a propósito de Nadar e da
+fotografia como instrumento de posse, diz-se ainda no capítulo em questão: “O que
+se vê não chega: é preciso transformá-lo em prova, em instrumento” (Gaudy 2019,
+106). A captura distanciada pela fotografia, na viagem de exploração de Andrée, Nils
+e Knut, surge, de modo semelhante, como meio de apropriação. Assim se diz na seguinte passagem: “A fotografia, a aeronáutica: mesmo combate. Trata-se sempre de
+apreender, de apanhar, de encolher, de possuir” (Gaudy 2019, 103). Estes termos
+associados ao ato da fotografia refletem a vontade de estabilização, fixação e captura
+que caracteriza o desígnio dos exploradores. O olhar da máquina fotográfica representa simbolicamente este modelo de objetividade, desprovido de irregularidades e
+de dúvidas no contacto com o mundo natural.
+A queda do balão representa na obra um desequilíbrio na relação distanciada
+com a paisagem, desejada pelos viajantes. A imagem da descida é central no decorrer
+da narrativa pois, na reconstrução feita da viagem e dos seus protagonistas, a queda
+representa a perda do lugar de estabilidade e vem abalar a intenção de capturar a
+paisagem. O olhar objetivo e abrangente a partir de um ponto fixo e vertical transforma-se num percurso em que é o próprio corpo que contacta com a paisagem. Esta
+paisagem deserta é marcada pela ausência de elementos familiares. A perda das referências que estabilizavam, por via do hábito, o olhar distanciado conduz a um descentramento do sujeito. Em simultâneo, e como consequência deste esvaziamento de
+referências, acentua-se a resistência interpretativa do mundo. A luminosidade intensa da paisagem gelada tolda a visão dos viajantes, fazendo com que a sua aproximação a este lugar não corresponda a um entendimento crescente do mesmo, pelo
+contrário. A experiência no deserto gelado distingue-se de um modo de relação entre
+o sujeito e a paisagem marcado pela obediência à satisfação contínua da vontade de
+ver. Apesar de mais liberto do véu da sociedade, o olhar dos viajantes não se clarifica,
+antes se torna mais turvo como consequência dessa perda das referências familiares.
+O narrador irá, contudo, encontrar no olhar mais turvo uma forma de abertura à
+impermanência da paisagem e uma libertação da clausura na obsessão de construir
+um saber total sobre as coisas do mundo exterior. Embora o estado de errância seja
+uma consequência evidentemente não premeditada pelos próprios, a deambulação
+dos três viajantes abre caminho a um encontro com o exterior no abandono das suas
+primeiras esperanças de conquista.
+A queda do balão é, então, acesso a um reverso da perceção do mundo natural
+enquanto objeto de um olhar de domínio. Na experiência dos viajantes, o narrador
+interessa-se pelo que no seu desígnio de conquista, que espelha muitos outros semelhantes, são marcas de sombra, de imprecisão e de incapacidade de conhecer. A viagem de Nils, Andrée e Knut na paisagem do Ártico constitui uma forma de pensar
+um contacto próximo com o mundo natural na sua alteridade, distinta de uma procura ativa de conhecimento. Num dos capítulos finais de Un monde sans rivage, o
+narrador sugere, precisamente, a necessidade de adotar uma postura recuada, em
+que os olhos se fecham para que a paisagem se preserve da ação e até do registo que
+os sujeitos lhe impõem:
+seria preciso fechar os olhos durante anos, séculos, até que o mundo descanse do
+nosso olhar, que os lugares se tornem mitos que voltariam a viver em nós sob
+
+
+
+
+forma de memórias ou ilusões possíveis, até não termos a certeza se existiram.
+(Gaudy 2019, 302)
+
+Representar esta viagem parece ser uma forma de dar a ver um modo de contacto
+com o mundo em que, havendo uma aproximação do sujeito à paisagem, tal significa
+preservar a distância que naturalmente existe entre ambos.
+As diferentes formas de distanciamento face à apreensão da natureza, que o
+narrador associa simbolicamente à queda do balão, são replicadas no modo como se
+observa e se reflete ao longo da narrativa sobre as fotografias danificadas de Nils.
+Também na fotografia, enquanto modo de representação, se observa uma transição
+semelhante à que ocorre na viagem, de um ponto alto para uma descida que, embora
+aproxime fisicamente os viajantes da paisagem, torna mais turva a sua visão. Como
+discutido, o ato de fotografar associado ao início da viagem no balão corresponde a
+uma vontade de conhecimento, estabilização e apropriação do mundo natural. Assim
+se diz na seguinte passagem:
+É a prova de que a fotografia já não mostra apenas a superfície das coisas, que é
+capaz de captar o que o olho não pode ver: as marcas do tempo como o interior do
+corpo, tudo o que vai morrer, tudo o que está vivo. (Gaudy 2019, 206)
+
+Este tipo de fotografia é a capacidade sobre-humana de penetrar o interior das coisas,
+mas sem que esse olhar penetrante estabeleça um verdadeiro encontro com o mundo
+sobre o qual lança o seu poder de reprodução mimética. As fotografias de Nils
+Strindberg, pelo contrário, têm a particularidade de se encontrarem danificadas, colocando em causa a sua posição enquanto modelo portador de uma perfeição na representação que assegurasse a capacidade do sujeito de capturar realmente a paisagem. Da fotografia mimética, a que se associa um poder de atuação superior, quase
+relembrando, na passagem citada, uma atuação ex-machina, o narrador debruça-se
+sobre as fotografias danificadas, que toldam a capacidade de um olhar desimpedido
+e de longo alcance. A materialidade gasta destas imagens parece ser um reflexo da
+deflação do olhar abrangente e penetrante associado à intenção inicial da captura
+fotográfica. Estabelece-se, assim, uma correspondência entre a ação da paisagem deserta na fotografia e nos viajantes, na estranheza que esta provoca. Tal como o deserto gelado, as imagens de Nils Strindberg toldam a visão, dado que o seu próprio
+percurso no decorrer do tempo conduziu à perda da sua nitidez inicial e, consequentemente, do acesso ao objeto a que se dirigiria o olhar de quem as captou. Ao referir
+as fotografias, o narrador cria uma ambiguidade entre as imagens e o que poderia
+ser uma descrição da paisagem gelada:
+A imagem possui toda a estranheza dos começos da fotografia, dos primeiros retratos de pessoas anónimas e de espectros. Uma grande quantidade de pontos
+escuros que a crivam como insetos. A sua superfície é de um cinzento aveludado,
+de um mar ondeando com reflexos de ondas deixados pela luz, lisa como um tecido, profunda como água, semeada de constelações abstratas, manchas, crepitações, margens que escorrem como tinta, marcas de uma claridade demasiado violenta manchando a paisagem ou vapor a dissipar todas as nuances de negro.
+(Gaudy 2019, 9)
+
+
+
+
+
+A comparação com o mar, que descreve a fotografia como sendo “profunda como
+água”, cria, desde logo, a impressão de um espaço com dimensão e profundidade,
+características que se esperam de elementos dotados de relevo, mais do que de um
+objeto bidimensional como a fotografia. Encontra-se a sensação de profundidade, inversamente, em altura, na referência às constelações, e ainda uma profundidade
+imaterial, na menção aos espectros. Desenha-se, por fim, uma “atmosfera” gasosa,
+que sugere também a tridimensionalidade da superfície da fotografia. Todas estas
+diferentes formas de aludir à sua extensão apontam para algo que não é nítido, mas,
+pelo contrário, como dito no início da citação, anónimo e estranho. Essa impressão
+de sombra difere da ideia de captar e tornar a paisagem familiar anteriormente discutida. De facto, em Un monde sans rivage a falha no entendimento e na apreensão
+total das coisas é uma questão central, como discutimos na terceira parte deste artigo.
+
+<t>3. As fotografias danificadas como modelo para uma teoria da representação da paisagem
+Num breve apêndice a Un monde sans rivage, intitulado “Bibliographie et Pistes”, a
+autora refere o ensaio de Jean-Christophe Bailly L’Instant et son ombre (2008), uma
+das obras que o ensaísta dedica à fotografia. Ao tomar este texto como referência,
+Gaudy aproxima a sua obra da reflexão sobre o surgimento da fotografia nas suas
+origens e, sobretudo, do questionamento sobre o visível, a que Bailly estende o seu
+comentário a partir da representação fotográfica. Efetivamente, esta é entendida, no
+seu ensaio, como ponto de partida para pensar o enigma da visibilidade das coisas e
+interrogar as relações entre a perceção do sujeito, a alteridade do mundo e o seu
+registo. Atentar em alguns aspetos desta obra de Bailly apoia-nos na compreensão
+de uma teoria de representação da paisagem que se desenvolve a partir das fotografias danificadas de Strindberg, e em alternativa à fotografia como meio de representação intencionalmente possessivo.
+No primeiro capítulo, sobre o aparecimento do visível na fotografia, intitulado
+“Une meule en plein soleil”, Bailly parte das experiências fotográficas de William
+Fox Talbot (1800-1877) no volume The Pencil of Nature (1844) para discutir o modo
+como a fotografia e o real se encontram e se relacionam. Talbot apresenta um entendimento do ato fotográfico como um processo natural, atribuindo-lhe o nome “lápis
+da natureza”, expressão que guia a discussão de Bailly ao longo do capítulo em questão. Os “desenhos fotogénicos” — impressões de silhuetas gravadas por meio da reação entre compostos químicos e a ação da luz — são a expressão mais evidente de
+uma escrita do sol. Segundo Talbot, estas fotografias constituem uma forma de representação gerada pela mão da natureza. A deposição do mundo na matéria dá-se
+sem revelar o seu fundo e surge sob a forma de uma presença de que a “superfície” é
+indicadora. A fotografia afigura-se como o processo de tornar visível uma ação invisível, enquanto indício de algo que permanece à distância. Efetivamente, em L’Instant et son ombre, concebe-se este processo como um encontro, no qual a atitude do
+sujeito que fotografa tende para a passividade. Na esteira da expressão com que Talbot descreve o fenómeno fotográfico, e que desde logo retira em grande medida a
+
+
+
+
+intencionalidade do processo, a passividade daquele que em princípio diria “eu” por
+meio do traçar do seu gesto, e que aqui está quase ausente, parece ser o meio que
+possibilita este encontro. Segundo Talbot, os começos da fotografia significam que o
+mundo passa a deter o pincel, aquando do advir das primeiras experiências que a
+sua obra alberga e do próprio daguerreótipo, também apresentado pelo seu criador
+como “um processo físico e químico que confere [à natureza] a facilidade de se reproduzir a si mesma.” (Daguerre apud Bailly 2008, 26). Os desenvolvimentos da ciência
+e da técnica, tanto no caso dos viajantes como no de Talbot, permitem a captura da
+representação da natureza. Mas no caso das fotografias de Talbot, esses avanços feitos pela humanidade colocam-na num lugar passivo, dando atividade à natureza. As
+“palavras de luz”, que este autor encontra possibilitadas pelo meio fotográfico, são
+um encontro entre o mundo e a esfera humana da representação em que não se opera
+uma fusão, uma adaptação da primeira à segunda. A matéria destas palavras é a
+luz, sem a qual não se constituem.
+Jean-Christophe Bailly encontra nestas primeiras experiências fotogénicas características que se mantêm ao longo da evolução da fotografia. O autor faz uso de
+uma imagem materna — “o ventre da luz” (Bailly 2008, 42) — para descrever o depositar da luz no material fotográfico. Esta diz a impressão de um encontro com o
+mundo na sua voz, de que o “lápis da natureza” de Talbot dava já conta, mas que
+Bailly concretiza, fazendo dessa ação da luz o experienciar de um modo antigo e primeiro de linguagem do mundo. Em L’Instant et son ombre, considera-se que a fotografia se distingue do traço do desenho ou da pintura por ser uma deposição, de que
+está ausente o contacto entre o real e o que o fixa.
+Em Un monde sans rivage, o capítulo “Constelações” é dedicado às experiências
+fotográficas que August Strindberg (1849-1912), escritor sueco e, por coincidência,
+tio de Nils Strindberg, realizou por volta de 1893-94. As suas Celestografias partilham com o “lápis da natureza” de Talbot a ideia de uma graphia do mundo natural.
+Ao expor placas fotográficas à luz das estrelas, Strindberg pretendia que as estrelas
+se desenhassem nelas sem intervenção ativa da mão humana ou de uma máquina a
+servi-la. Strindberg parece ter acreditado num primeiro momento que a sua experiência funcionara e que teria conseguido gerar o surgimento do céu noturno estrelado
+nas suas placas. Tal foi, contudo, rejeitado pela comunidade científica, pois estas formas tinham sido obtidas pela conjunção química das placas com elementos exteriores, nomeadamente poeiras. De qualquer modo, as experiências de Strindberg representam, como as de Talbot, o fascínio pelo mistério da visibilidade do mundo e a
+possibilidade de aceder a esse surgimento por via da representação, sem a intervenção corruptora da mão ou do olhar humano. Existe também, aparentemente, uma
+proximidade entre o processo de danificação das fotografias de Nils Strindberg, nas
+quais a paisagem se grava, modificando-as por ação própria, e a experiência de August Strindberg, ao tentar que a luz celeste se gravasse, sem intervenção de uma
+máquina, nas suas placas fotográficas. É particularmente relevante, contudo, o facto
+de o narrador considerar a experiência de August como a expressão de uma vontade
+de reprodução mimética do mundo natural que não difere em grande medida da tentativa de compreensão total ambicionada por exploradores e cientistas. Trata-se de
+uma perceção distinta da que apresenta Bailly relativamente às experiências de Talbot, entendendo-as como um encontro do ato de representação com a expressão da
+
+
+
+
+exterioridade das coisas. Pelo contrário, afirma-se na seguinte passagem, acerca do
+efeito da vontade de conhecimento e de estabilização do mundo natural de que as
+Celestografias são, ao olhar do narrador, símbolos:
+Essas extensões longínquas, esta neve, este céu, estas árvores imensas, então
+esta noite, estes brilhos, estas auroras boreais tornam-se para ele materiais, ingredientes, e no ato artístico como na exploração traça-se esta mesma seta de
+direção única: que tudo venha das mãos dos homens, que estes sejam os criadores
+e proprietários. (Gaudy 2019, 283)
+
+Recorre-se ao uso de termos como “ingredientes” e “materiais”, próximos da ideia de
+instrumentalização que já tinha sido notada quanto à descrição das experiências,
+tanto expansionistas como de cariz científico, descritas em Un monde sans rivage. O
+que distingue, então, os dois momentos em que o “lápis da natureza” se reproduz a
+si mesmo, nas experiências de August e nas fotografias danificadas? Neste último
+caso, a ação da paisagem torna-se de algum modo independente da vontade humana.
+Ao invés, o narrador compreende as Celestografias de August como uma forma de
+gerar um modo de linguagem para a natureza, retirando-a do distanciamento conferido pelo seu mutismo original. No momento em que, mesmo aparentemente retirando o gesto humano do processo, August acredita criar uma linguagem para as
+estrelas, está, segundo o narrador, a procurar superar a sua expressão original — o
+seu silêncio — ao tentar conduzi-las intencionalmente à formação de uma imagem.
+A expressão da natureza seria, afinal, uma criação humana, como sugere a passagem
+anteriormente citada.@NOTE2 A distinção entre as experiências de August Strindberg e as
+fotografias danificadas de Nils revela a importância que o narrador atribui à intencionalidade. Nas fotografias danificadas, o Ártico reproduz-se pela sua própria mão,
+à revelia da intencionalidade do homem. O narrador descreve-as do seguinte modo:
+Espelhos gastos onde [os viajantes] se terão brevemente refletido, não contarão
+nada mas captarão tudo, a mínima deposição de areia, a mínima baixa de temperatura, o que escapa à ótica precisa do aparelho: a sombra das noites, os vazios
+acumulados entre negativos, o silêncio do mar gelado, o que ativa o nervo ótico,
+os nervos em geral — a matéria móvel das histórias. (Gaudy 2019, 284)
+
+As fotografias tinham a intenção inicial de comprovar a captura da paisagem pelos
+viajantes. A própria paisagem, contudo, derrotando equipamentos e instrumentos, e
+danificando, pela sua ação, as fotografias intencionalmente tiradas por Nils, gera
+uma nova fotografia, em que se autorrepresenta, inscrevendo sombras, falhas e diluindo formas. As fotografias são também, ironicamente, uma breve reflexão dos viajantes, que se encontram, por isso, reduzidos a diferentes formas de humildade.
+Fotografados, ao invés de fotógrafos, passam a integrar a paisagem. Ao invés de distintos e superiores, a sua existência efémera e breve opõe-se à imensidão e
+<note>2 Também Talbot poderia ser criticado a partir do olhar cético do narrador de Un monde sans rivage sobre
+o progresso científico, dado que a sua técnica está de acordo com a vontade científica de apreender as
+coisas precisamente como são. Trata-se, de certo modo, de uma forma ainda mais pura de “distância
+científica”, em que a apreensão mais real da natureza, a partir de instrumentos de registo criados pelo
+homem, necessita de mínima intervenção humana, recordando a atitude distanciada dos viajantes e o seu
+olhar de sobrevoo, captando “de longe” a paisagem por meio da sua lente fotográfica.<\note>
+
+
+
+permanência do gelo do Ártico. Representando a captura dos viajantes, a própria
+paisagem destrói, com esses movimentos, a intencionalidade humana inicial. Encontra-se nas fotografias uma forma de desaparecimento da paisagem que inicialmente
+representavam, substituída pela sombra, sobre a qual o fotógrafo não tem intervenção. Como vimos, deflacionadas no seu poder mimético pela própria paisagem, as
+fotografias não são representações perfeitas, mas espelhos gastos refletindo imagens
+turvas. A fotografia, instrumento humano de captura, é, então, “instrumentalizada”
+pela paisagem de acordo com a sua existência que se espelha não na nitidez, mas no
+desfoque da fotografia e na sua ação destruidora. Deste modo, as falhas das fotografias de Strindberg são a expressão da paisagem na sua própria linguagem silenciosa
+e que se reflete nos vazios e silêncios que grava no material fotográfico. Trata-se do
+verdadeiro lápis da natureza, escapando ao controlo e às intenções humanas. Assim,
+de certo modo, o conhecimento que os viajantes teriam ambicionado construir sobre
+a paisagem e os seus múltiplos detalhes, nomeadamente por meio da captura fotográfica, pode ser, afinal, intuído nas fotografias danificadas. Contudo, ao invés de
+representado, encontra-se apenas sugerido pelas ausências, os silêncios, os vazios.
+Essas zonas de penumbra que danificam a representação transparente permitem
+uma aproximação, pelo caminho da distância, aos ritmos e flutuações do deserto gelado.
+O capítulo acerca das experiências de August Strindberg e a comparação que o
+narrador estabelece com as fotografias de Nils permite compreender a valorização
+que se faz da distância original do mundo natural na obra de Gaudy, que as representações podem tender a aproximar ou a distorcer. Encontra-se, então, em Un
+monde sans rivage, um maravilhamento perante o que não pode ser intencionalmente reproduzido, nem plenamente compreendido pelos métodos de medição e reprodução concreta, valorizada pela ciência e pela técnica. As sombras e os brancos
+da imagem, que a paisagem inscreveu na fotografia, são a forma mais próxima de a
+observar na sua manifestação real, precisamente porque esse afastamento constitui
+em si a expressão da paisagem, sobreposta à vontade humana. Ao dar a ver indiretamente e por nuances, as fotografias distanciadas da representação nítida aproximam-se, por via da sensibilidade, da linguagem da natureza. Gravando-se nas fotografias de Nils Strindberg, a paisagem aproxima-se e, simultaneamente, faz com que
+estas fotografias estejam mais distantes da representação do Ártico que inicialmente
+permitiam. Precisamente, em L’Instant et son ombre, Jean-Christophe Bailly, apesar
+de discutir a fotografia por meio da ideia de uma expressão direta da natureza, mas
+desprovida de uma intencionalidade humana, na linha de William Fox Talbot e de
+August Strindberg, volta-se para um fenómeno do visível em particular, que a fotografia capta de modo privilegiado: a sombra. Bailly encontra na fotografia — de
+acordo com a técnica de Talbot, mas alargada ao ato fotográfico em termos mais gerais — um ato de representação que assentaria numa perturbação ou indefinição,
+definida pelo autor no original como “trouble”. O termo “trouble” é particularmente
+interessante, pois engloba o sentido mais literal, que teria por sinónimo a palavra
+“desfocado”, característica de um objeto “turvo”, e o sentido mais figurado de algo
+“obscuro” e “perturbador”. A estranheza que suscita o “surgimento” pelo qual a fotografia acontece permite enfatizar a mesma estranheza do mundo concreto que desponta para os sentidos do sujeito na sua concretude, mas que oculta os meios e os
+
+
+
+
+tempos desse surgir.@NOTE3 O modo como se dá a vinda e a chegada do mundo ao papel
+fotográfico mantém-se invisível e o gerador da sua presença encontra-se ausente. A
+fotografia como a concebe Bailly é, então, a expressão de um tempo do mundo anterior à sua representação, na sua pureza inicial: “antes do pensamento, antes da chegada do pensamento, como um puro caráter pensativo que seria o da natureza sonhando-se” (Bailly 2008, 74).
+A sombra é o lugar que, para Bailly, concentra esta inquietação associada ao
+surgimento do mundo natural. Justamente, as zonas de claridade que o deserto gelado inscreve nas fotografias de Nils são como sombras que toldam a imagem inicial.
+A sombra e a sua indefinição deslocam a representação fotográfica do seu gesto de
+fixação, ou de definição de uma porção de realidade. Constitui um elemento inesperado que o real vem, por vezes, inscrever na fotografia, escapando ao olhar do fotógrafo. A descrição que o autor faz da sombra em Une éclosion continue (2022), outro
+ensaio sobre fotografia, poderia referir-se à relação do narrador de Un monde sans
+rivage com a representação da paisagem deserta do Ártico. Recorda ainda o reconhecimento de uma distância insuperável baseada na diferença e na sensibilidade: “relembra-nos que um outro mundo habita o mundo e que para ele ou para nós, só tem
+existência assim revestido de desconhecido” (Bailly 2022, 97). O desconhecido e a
+distância surgem para o narrador de Un monde sans rivage como fatores de acesso
+ao conhecimento que mantêm o lugar original das coisas do mundo natural, sem se
+fecharem sobre o que intentam observar. Trata-se de uma valorização da sombra e
+do conhecimento não totalmente revelado como formas de encontro com a paisagem
+que preservam as suas características. Significativamente, este elogio toma como
+exemplo a fotografia danificada, por oposição à lente poderosa de uso científico, que
+replica o caráter outro da paisagem gelada e mantém o acesso parcialmente velado
+ao observador.
+
+Considerações finais
+A propósito de Un monde sans rivage, Hélène Gaudy afirma: “Quis escavar este inverso. A questão da falha interessa-me” (Gaudy 2019b). Esta falha está contida na
+indefinição das fotografias de Nils: a falha da viagem que não ocorreu como esperado,
+de uma história cujos detalhes se perderam irremediavelmente, a falha humana em
+compreender a natureza nos seus próprios termos, e aquela que, ao invés, é materializada pela própria expressão da natureza. Notámos que, muito para além daquilo
+que representam objetivamente, são os espaços vazios da fotografia, as suas falhas,
+precisamente, que originam o desejo de preenchimento do contorno pelo ato de escrita e que suscitam a necessidade de criar uma narrativa para tornar presente uma
+experiência perdida, irrecuperável e, por isso, imaginada e reconstituída. Mimetizando a indefinição das fotografias danificadas, os seus espaços em branco, manchas
+<note>3 Também Georges Didi-Huberman associa a estranheza da aparição do real à destabilização causada pelas
+imagens. A obra Phalènes (2013) inicia-se com a descrição do surgimento do voo de uma borboleta, da
+perturbação provocada ao observador e que é posta em paralelo com o efeito produzido pela imagem,
+cuja tentativa de descrição seria como um batimento de asas, uma oscilação entre a compreensão e a
+perda de sentido.<\note>
+
+
+
+e zonas de sombra, a escrita em Un monde sans rivage procura, à imagem das fotografias de Strindberg, manter alguma distância relativamente ao seu objeto de representação, avançando sem procurar qualquer possibilidade de reunião ou fusão
+com a vivência dos viajantes e o curso dos acontecimentos que a compõem e com a
+paisagem gelada em si mesma. A partir da fotografia desenvolve-se também uma
+reflexão crítica quanto a uma relação distanciada com a paisagem natural. O pensamento expansionista e a visão utilitarista do mundo natural, marcados por uma ambição de transparência, em que dúvidas e hesitações desaparecem, são criticados pelo
+narrador. Contudo, as falhas nas fotografias de Strindberg criadas pela ação que a
+paisagem nelas inscreveu após o tempo passado no gelo do Ártico sugerem um modelo de representação que não procura desvendar, mas apenas aproximar-se, colocando hipóteses, afirmando dúvidas. As sombras nas fotografias, enquanto representação do que no mundo natural escapa à apreensão mimética, reprodução da instabilidade e da incerteza que o mundo natural revela, surgem como modelo para uma
+rejeição da necessidade de o adaptar a um saber conclusivo e transmissível. O narrador encontra nas características turvas das fotografias de Strindberg uma forma
+de abertura à impermanência da paisagem e uma libertação da clausura na obsessão
+de construir um saber total sobre as coisas do mundo exterior. Desenvolve-se, então,
+simultaneamente, uma teoria acerca das possibilidades da fotografia enquanto modelo de representação e do modo como podem inspirar uma forma de perspetivar o
+contacto com o real que esteja à escuta da sua expressão natural.
+Assim, em Un monde sans rivage a fotografia transcende a mera representação
+mimética. É a partir das suas falhas e indefinições que a narrativa de Gaudy surge,
+encontra o seu modelo estilístico e a chave para adensar uma reflexão sobre a natureza das fotografias na sua relação com o mundo visível, pensando-as como uma
+forma de representação que privilegia o não-saber, a desorientação e a falha enquanto meios de escuta do mundo. Existindo como vestígio de um acontecimento preciso e assumindo necessariamente um papel documental, a narrativa revela as fotografias como portadoras de uma história, de uma experiência, não no que representam, mas no que escondem. São, simultaneamente, testemunho do pensamento e da
+mentalidade técnico-científica e imperialista e possibilidade de construção de uma
+forma mais ética de relação com o mundo envolvente. Sublinhando a sua impermanência, a narrativa de Gaudy leva-nos a percecionar as fotografias para além da estabilização de uma porção do real, entendendo-as como objetos que permanecem
+abertos a constantes transformações e interpretações, consoante o olhar que sobre
+elas recaia, possibilitando mesmo pensar a partir delas, em termos mais gerais, a
+representação artística e a sua relação com o mundo: “Mas as imagens, essas, não se
+voltarão jamais a fechar. Cada dia, cada ano lhes dará um tom diferente aos olhos
+daqueles, daquelas que as olharão” (Gaudy 2019, 20).
+
+
+
+
+
+<t>Referências
+
+Bailly, Jean-Christophe. 2008. L’Instant et son ombre. Une histoire de photographie. Paris:
+Éditions du Seuil.
+Bailly, Jean-Christophe. 2022. Une éclosion continue. Paris: Éditions du Seuil.
+Brito, Eduardo. 2016. “Wandering in a Sea of Ice Voyage, Narrative and Resonance in the
+photographs of Nils Strindberg” In SOPHIA Crossing Borders, Shifting Boundaries –
+The Aura of the Image, 1, 15-29.
+Delcour, Manon. 2022. “Traces «photocartographiques» dans Un monde sans rivage, d’Hélène
+Gaudy” In Littérature 2022/3, 207, 6-92.
+Gaudy, Hélène. 2019. Un monde sans rivage. Arles: Actes Sud.
+Gaudy, Hélène. 2019b. “Hélène Gaudy: «Les métamorphoses que subit notre monde changent
+tout notre régime de valeur, et le langage lui-même»” In Diacritick [em linha].
+https://diacritik.com/2019/09/11/helene-gaudy-les-metamorphoses-que-subit-notremonde-changent-tout-notre-regime-de-valeur-et-le-langage-lui-meme/.
+
+Bárbara Sexauer é licenciada em Estudos Comparatistas da Faculdade de Letras da Universidade de Lisboa. Concluiu o Mestrado em 2024 e a sua dissertação incide sobre representações da paisagem na literatura, particularmente nas obras de Philippe Jaccottet e Hélène
+Gaudy. Foi bolseira do projeto Port-Asia do Centro Estudos Comparatistas da Universidade
+de Lisboa e co-editora do volume Literatura e Vida Intelectual em Língua Portuguesa na Ásia
+e no Índico (Centro Científico e Cultural de Macau, 2023).
+
+© 2025 Bárbara Sexauer
+
+Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+
+
